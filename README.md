@@ -1,2 +1,2 @@
 # MarketApplicationProject
-Creating a web app used to connect buyers faster and in a more convienient way
+My name is William and i will be the project manager for this repository
